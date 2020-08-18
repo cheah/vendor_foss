@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-repo="https://f-droid.org/repo/"
+repo="http://localhost/repo/"
 
 addCopy() {
 	addition=""
